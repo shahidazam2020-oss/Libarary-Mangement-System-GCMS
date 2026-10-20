@@ -105,7 +105,7 @@ The **BookIssue** table manages book circulation and records transactions when b
 * Return Date
 * Fine
 
-This component allows the library to track which member has borrowed a particular book and when it should be returned.
+**This component allows the library to track which member has borrowed a particular book and when it should be returned.**
 
 ---
 
