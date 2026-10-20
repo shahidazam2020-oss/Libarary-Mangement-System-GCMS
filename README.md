@@ -151,7 +151,7 @@ The **BookIssue** table manages book circulation and records transactions when b
 
 **The database uses relationships between its tables to maintain organized and consistent data.**
 
-The major relationships include:
+**The major relationships include:**
 
 ```text
 AuthorData
