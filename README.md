@@ -95,7 +95,7 @@ The **StaffPErsonnal** table stores information about library staff members, inc
 
 The **BookIssue** table manages book circulation and records transactions when books are issued to members.
 
-Important fields include:
+**Important fields include:**
 
 * Issue Number
 * Book ID
