@@ -89,7 +89,7 @@ The **StaffPErsonnal** table stores information about library staff members, inc
 * Phone
 * Appointment Date
 
-This information can also be associated with book issuing transactions.
+**This information can also be associated with book issuing transactions.**
 
 ### 📚 Book Issue & Return
 
