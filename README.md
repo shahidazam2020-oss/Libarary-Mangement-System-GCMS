@@ -165,7 +165,7 @@ AuthorData
                        └── StaffPErsonnal
 ```
 
-For example, a book can be associated with an author and category, while a book issue transaction connects the book with a library member and the staff member who processed the transaction.
+**For example, a book can be associated with an author and category, while a book issue transaction connects the book with a library member and the staff member who processed the transaction.**
 
 ---
 
