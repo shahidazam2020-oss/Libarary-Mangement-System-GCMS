@@ -216,7 +216,7 @@ This software can be used by:
 
 ## 📁 Project File
 
-The main database file is:
+**The main database file is:**
 
 ```text
 LibararyMangementSystem GCMS.accdb
