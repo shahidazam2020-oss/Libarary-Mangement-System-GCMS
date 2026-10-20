@@ -111,7 +111,7 @@ The **BookIssue** table manages book circulation and records transactions when b
 
 ## 📊 Reports
 
-The system includes several predefined reports that can help library management analyze its records.
+**The system includes several predefined reports that can help library management analyze its records.**
 
 Examples include:
 
