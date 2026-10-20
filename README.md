@@ -54,7 +54,7 @@ The **AuthorData** table maintains information about book authors, including:
 * Life Status
 * Monthly Income
 
-The author information is connected with the books in the collection.
+**The author information is connected with the books in the collection.**
 
 ### 🏷️ Category Management
 
