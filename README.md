@@ -65,7 +65,7 @@ It contains:
 * Category ID
 * Category Name
 
-This makes it easier to classify and search for books.
+**This makes it easier to classify and search for books.**
 
 ### 👥 Library Members
 
