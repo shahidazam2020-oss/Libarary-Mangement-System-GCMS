@@ -193,7 +193,7 @@ This software can be used by:
 * 🎓 **Universities** to organize library resources
 * 🏢 **Small organizations** that require a basic library database
 
-The system is particularly useful for libraries that want to replace manual registers or spreadsheets with a structured database solution.
+**The system is particularly useful for libraries that want to replace manual registers or spreadsheets with a structured database solution.**
 
 ---
 
