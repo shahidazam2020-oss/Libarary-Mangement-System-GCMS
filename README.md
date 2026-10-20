@@ -126,7 +126,7 @@ The **BookIssue** table manages book circulation and records transactions when b
 * **Category Wise Books**
 * **Author Wise Books**
 
-These reports make it easier to obtain useful information without manually searching through database records.
+**These reports make it easier to obtain useful information without manually searching through database records.**
 
 ---
 
