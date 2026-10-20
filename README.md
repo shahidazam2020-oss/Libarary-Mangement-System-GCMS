@@ -29,7 +29,7 @@ The system is designed to reduce manual record-keeping, improve data organizatio
 
 ## 🗂️ Main Database Components
 
-The system contains several interconnected tables for storing and managing library information.
+**The system contains several interconnected tables for storing and managing library information.**
 
 ### 📖 Book Collection
 
