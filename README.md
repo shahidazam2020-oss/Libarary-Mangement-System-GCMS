@@ -134,7 +134,7 @@ The **BookIssue** table manages book circulation and records transactions when b
 
 **The project also includes Microsoft Access forms that provide a user-friendly interface for entering and managing information.**
 
-Available forms include:
+*Available forms include:*
 
 * **Book Issue Form**
 * **Book Collection Form**
