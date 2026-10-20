@@ -143,7 +143,7 @@ The **BookIssue** table manages book circulation and records transactions when b
 * **Staff Personnel Form**
 * **Author Data Form**
 
-These forms allow users to add, update, and manage database records efficiently.
+**These forms allow users to add, update, and manage database records efficiently.**
 
 ---
 
