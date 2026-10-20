@@ -10,7 +10,7 @@ The system is designed to reduce manual record-keeping, improve data organizatio
 
 ## 🎯 Purpose of the Project
 
-The main purpose of this project is to provide an efficient database system for managing library resources and transactions.
+**The main purpose of this project is to provide an efficient database system for managing library resources and transactions.**
 
 It helps library staff to:
 
