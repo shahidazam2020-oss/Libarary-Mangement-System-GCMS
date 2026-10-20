@@ -12,7 +12,7 @@ The system is designed to reduce manual record-keeping, improve data organizatio
 
 **The main purpose of this project is to provide an efficient database system for managing library resources and transactions.**
 
-It helps library staff to:
+**It helps library staff to:**
 
 * Manage book collections
 * Store author information
