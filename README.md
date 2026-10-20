@@ -149,7 +149,7 @@ The **BookIssue** table manages book circulation and records transactions when b
 
 ## 🔗 Database Relationships
 
-The database uses relationships between its tables to maintain organized and consistent data.
+**The database uses relationships between its tables to maintain organized and consistent data.**
 
 The major relationships include:
 
