@@ -254,3 +254,4 @@ This project demonstrates the practical implementation of a **relational databas
 
 **Computer Science | Artificial Intelligence | Database Projects**
 I am a Computer Science graduate with an interest in Artificial Intelligence, Machine Learning, Python development, and practical software projects.
+This repository represents my work on a School Management System database project, demonstrating my interest in structured information management and database technologies.
