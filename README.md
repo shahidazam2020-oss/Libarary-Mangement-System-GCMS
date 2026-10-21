@@ -244,7 +244,7 @@ This project demonstrates the practical implementation of a **relational databas
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 About the Developer
 
 **Shahid Azam**
 
