@@ -276,6 +276,8 @@ This repository represents my work on a School Management System database projec
 
 ## 🤝 Contributing
 
+**Suggestions and improvements are welcome.**
+
 ## 📜 License
 
 A license has not been specified for this project.
