@@ -273,8 +273,6 @@ This repository represents my work on a School Management System database projec
 </div>
 
 ---
-
-<div align="center">
      
 ### ⭐ If you find this project interesting, consider starring the repository!
 
