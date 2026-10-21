@@ -279,3 +279,5 @@ This repository represents my work on a School Management System database projec
 ### ⭐ If you find this project interesting, consider starring the repository!
 
 **Built with Microsoft Access | Developed by Shahid Azam**
+
+*Learning, building, and improving through practical software projects.*
