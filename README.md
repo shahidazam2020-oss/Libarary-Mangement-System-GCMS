@@ -246,8 +246,6 @@ This project demonstrates the practical implementation of a **relational databas
 
 ## 👨‍💻 About the Developer
 
-**Shahid Azam**
-
 <div align="center">
 
 # Shahid Azam
