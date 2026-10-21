@@ -273,3 +273,5 @@ This repository represents my work on a School Management System database projec
 </div>
 
 ---
+
+<div align="center">
