@@ -283,6 +283,7 @@ This repository represents my work on a School Management System database projec
 1. Fork this repository.
 2. Create a new branch.
 3. Make your changes.
+4. Test your modifications.
 
 ## 📜 License
 
