@@ -248,4 +248,8 @@ This project demonstrates the practical implementation of a **relational databas
 
 **Shahid Azam**
 
-This project was developed as a database management project demonstrating practical skills in **Microsoft Access, relational databases, data organization, forms, queries, and reporting**.
+<div align="center">
+
+# Shahid Azam
+
+**Computer Science | Artificial Intelligence | Database Projects**
