@@ -280,6 +280,8 @@ This repository represents my work on a School Management System database projec
 
 **If you would like to contribute:**
 
+1. Fork this repository.
+
 ## 📜 License
 
 A license has not been specified for this project.
