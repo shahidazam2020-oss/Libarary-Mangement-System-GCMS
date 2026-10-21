@@ -284,6 +284,7 @@ This repository represents my work on a School Management System database projec
 2. Create a new branch.
 3. Make your changes.
 4. Test your modifications.
+5. Submit a pull request describing your improvements.
 
 ## 📜 License
 
