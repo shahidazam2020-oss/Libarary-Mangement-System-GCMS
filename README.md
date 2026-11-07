@@ -297,6 +297,8 @@ If this project helps you understand machine learning for healthcare prediction,
 
 🍴 **Forking the project**
 
+🐛 **Opening an issue**
+
 ## 📜 License
 
 A license has not been specified for this project.
