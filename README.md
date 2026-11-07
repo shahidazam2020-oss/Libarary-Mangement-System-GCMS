@@ -293,6 +293,8 @@ This repository represents my work on a School Management System database projec
 
 If this project helps you understand machine learning for healthcare prediction, consider:
 
+⭐ **Starring the repository**
+
 ## 📜 License
 
 A license has not been specified for this project.
