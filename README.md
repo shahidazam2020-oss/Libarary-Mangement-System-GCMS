@@ -287,7 +287,10 @@ This repository represents my work on a School Management System database projec
 5. Submit a pull request describing your improvements.
 **For database changes, preserve a backup of the original `.accdb` file before making modifications.**
 
+
 ---
+# ⭐ If You Find This Project Useful
+
 ## 📜 License
 
 A license has not been specified for this project.
