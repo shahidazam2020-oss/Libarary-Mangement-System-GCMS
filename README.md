@@ -1,3 +1,15 @@
+<p align="left">
+  <a href="https://github.com/shahidazam2020-oss/Libarary-Mangement-System-GCMS/stargazers">
+    <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Libarary-Mangement-System-GCMS?style=social&cacheSeconds=60" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/shahidazam2020-oss/Libarary-Mangement-System-GCMS/forks">
+    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/Libarary-Mangement-System-GCMS?style=social&cacheSeconds=60" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/shahidazam2020-oss/Libarary-Mangement-System-GCMS/commits">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Libarary-Mangement-System-GCMS?display_timestamp=committer&style=flat-square" alt="Last Commit">
+  </a>
+</p>
+
 # 📚 Library Management System (GCMS)
 
 ## 📌 Project Overview
