@@ -1,4 +1,5 @@
-<p align="left">
+<p align="center">
+
   <a href="https://github.com/shahidazam2020-oss/Libarary-Mangement-System-GCMS/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Libarary-Mangement-System-GCMS?style=social&cacheSeconds=60" alt="GitHub Stars">
   </a>
